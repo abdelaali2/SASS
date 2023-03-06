@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  font-family: "Playfair Display";
+  font-size: 22px; }
+
+a {
+  text-decoration: none; }
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-weight: 800;
+  line-height: 1.2; }
+
+.bg-ff9285 {
+  background-color: #ff9285; }
+
+.btn-primary,
+.btn-primary-1 {
+  background-color: #ff9285;
+  border: none;
+  border-radius: 0;
+  padding: 1em;
+  font-size: 1.15em;
+  text-transform: uppercase;
+  color: black;
+  width: 10em; }
+
+.btn-primary-1 {
+  border: 2px solid black; }
+
+.li {
+  padding: 1rem;
+  object-fit: scale-down; }
+
+.h4 {
+  font-size: 2rem;
+  color: white; }
+
+nav {
+  font-size: 1.25rem; }
